@@ -1,19 +1,19 @@
-# Hi, I'm Arnel
+# Hi, I'm Arnel 👋
 
-Student & web developer.  
-Building apps, learning new technologies, solving problems.
+**Student & Web Developer**  
+Building apps, exploring new technologies, solving problems.
 
 ---
 
-## About
-- Backend, frontend, databases  
-- Always learning, always experimenting  
-- Open to collaborations
+## About Me
+- 💻 Backend, frontend & databases  
+- 🚀 Always learning, always experimenting  
+- 🤝 Open to collaborations  
 
 ---
 
 ## Contact
-[sadiarnel145@gmail.com](mailto:sadiarnel145@gmail.com) • [GitHub](https://github.com/Arnel-rah)
+📧 [sadiarnel145@gmail.com](mailto:sadiarnel145@gmail.com) • 🐙 [GitHub](https://github.com/Arnel-rah)
 
 ---
 
