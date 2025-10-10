@@ -15,9 +15,8 @@ and turning ideas into real projects.
 ---
 
 ## Contact
-Email: [your-email@example.com]  
-GitHub: [Arnel-rah](https://github.com/Arnel-rah)  
-LinkedIn: [your-linkedin-profile] *(optional)*  
+Email: [sadiarnel145@gmail.com]
+GitHub: [Arnel-rah](https://github.com/Arnel-rah)   
 
 ---
 
