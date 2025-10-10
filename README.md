@@ -1,22 +1,19 @@
 # Hi, I'm Arnel
 
-I'm a student passionate about web development.  
-I enjoy building modern applications, learning new technologies,  
-and turning ideas into real projects.
+Student & web developer.  
+Building apps, learning new technologies, solving problems.
 
 ---
 
-## About Me
-- Always curious to explore and experiment  
-- Interested in backend, frontend, and databases  
-- Constantly improving my skills in modern web development  
-- Open to collaborate on open-source or student projects  
+## About
+- Backend, frontend, databases  
+- Always learning, always experimenting  
+- Open to collaborations
 
 ---
 
 ## Contact
-Email: [sadiarnel145@gmail.com]
-GitHub: [Arnel-rah](https://github.com/Arnel-rah)   
+[sadiarnel145@gmail.com](mailto:sadiarnel145@gmail.com) • [GitHub](https://github.com/Arnel-rah)
 
 ---
 
