@@ -1,38 +1,17 @@
-# 👋 Salut, moi c’est Arnel
+# 👋 Arnel
 
-🎓 Étudiant passionné par le **développement web full stack**, je construis des projets modernes en combinant **TypeScript**, **React**, **Express**, et **PostgreSQL**.  
-J’aime apprendre, expérimenter et créer des applications claires, efficaces et bien structurées.
+### 💻 Languages & Tools
 
----
-
-## 🚀 À propos de moi
-- 💡 Étudiant en développement web & logiciels  
-- 🔭 Je développe actuellement des projets avec **Express + PostgreSQL**  
-- 🌱 J’apprends à maîtriser **Next.js**, **Socket.IO** et les **API REST**  
-- ⚙️ J’adore travailler avec **TypeScript**, **React** et **TailwindCSS**  
-- 💬 Je suis toujours motivé pour échanger autour du **backend**, de **l’architecture d’applications** et du **clean code**
-
----
-
-## 🧠 Stack technique
-**Langages & Frameworks :**  
-> TypeScript • JavaScript • Node.js • Express.js • React • Next.js • PostgreSQL • TailwindCSS  
-
-**Outils & Environnement :**  
-> Git • GitHub • VS Code • Postman • Figma • Docker (bases)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 📊 Statistiques GitHub
 ![Arnel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arnel-rah&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnel-rah&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Me contacter 
-🐙 **GitHub :** [Arnel-rah](https://github.com/Arnel-rah)    
-
----
-
-> _“Chaque ligne de code est une opportunité d’apprendre quelque chose de nouveau.”_ 🚀
