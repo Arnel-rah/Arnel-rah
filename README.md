@@ -36,4 +36,3 @@ Other :
 
 📧 sadiarnel145@gmail.com
 
-"Learning never stops — one line of code at a time."
