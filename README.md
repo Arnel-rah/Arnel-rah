@@ -24,11 +24,9 @@ Tools & Platforms :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" height="30" alt="Docker"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" alt="VS Code"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30" height="30" alt="Postman"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" height="30" alt="Figma"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="30" height="30" alt="Arduino"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" height="30" alt="Linux"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30" height="30" alt="Bash"/>  
+ 
 Other : 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="30" height="30" alt="GraphQL"/>
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="30" height="30" alt="AWS"/>
