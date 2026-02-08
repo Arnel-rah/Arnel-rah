@@ -2,32 +2,20 @@
 
 **Junior Backend Engineer | Infrastructure & Automation**
 
-Je conçois des API performantes et des architectures scalables. Ma mission : automatiser les workflows complexes pour transformer le "ça marche sur ma machine" en un déploiement continu et sans friction.
+Je conçois des API performantes et j'automatise les workflows complexes pour transformer le "ça marche sur ma machine" en un déploiement continu sans friction.
 
 ---
 
-### 🚀 Ce que je fais au quotidien
-* **Backend Development** : Conception d'API REST/gRPC robustes et sécurisées.
-* **Infrastructure as Code** : Automatisation du provisionnement et de la configuration des serveurs.
-* **CI/CD Optimization** : Mise en place de pipelines pour accélérer le delivery sans sacrifier la qualité.
-* **Cloud & Containers** : Orchestration de services pour garantir une haute disponibilité.
+### 🛠 Tech Stack
 
-### 🛠 Stack Technique
-| Catégorie | Outils & Langages |
-| :--- | :--- |
-| **Backend** | Node.js, Python, Go (ou tes langages) |
-| **Infrastructure** | Docker, Kubernetes, Terraform |
-| **CI/CD** | GitHub Actions, GitLab CI, Jenkins |
-| **Databases** | PostgreSQL, Redis, MongoDB |
-
-### 📈 Mes Statistiques GitHub
-![Ton GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=radical)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
-
-### 📫 Me contacter
-* **LinkedIn**: [linkedin.com/in/ton-profil](https://linkedin.com/in/ton-profil)
-* **Portfolio**: [ton-site.com](https://ton-site.com)
-* **Email**: [ton-email@exemple.com](mailto:ton-email@exemple.com)
 
 *"Automating the boring stuff, one commit at a time."*
