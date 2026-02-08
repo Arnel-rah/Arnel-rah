@@ -21,16 +21,3 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
----
-
-### 🚀 En quelques mots
-- 🏗️ Focus sur la construction d'architectures **microservices** et **scalables**.
-- 🤖 Passionné par l'**automatisation** et la réduction de la dette technique.
-- 🛠️ Adepte de la culture **DevOps** : "You build it, you run it".
-
----
-<br />
-
-<p align="center">
-  <i>"Automating the boring stuff, one commit at a time."</i>
-</p>
