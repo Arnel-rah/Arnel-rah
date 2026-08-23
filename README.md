@@ -2,23 +2,11 @@
 
 **Junior Backend Engineer | DevOps & Cloud Infrastructure**
 
-> Building secure, automated infrastructure — Go, Spring Boot, Terraform, AWS.
+> Designing and automating secure cloud infrastructure with Go, Spring Boot, Terraform and AWS.
 
-- 🔭 Currently building [`secure-deploy-kit`](https://github.com/Arnel-rah/secure-deploy-kit) — a secure IaC deployment kit (Terraform + OIDC + WAF), tested end-to-end on LocalStack
-- 🌱 Learning: AWS Solutions Architect (SAA-C03), Kubernetes
-- 💻 Stack: **Go** · Java/Spring Boot · Terraform · Docker · AWS · GitHub Actions
-- 🎯 Goal: remote cloud/DevOps engineering roles
-- 📍 Madagascar
-
----
-
-**Featured projects**
-
-| Project | Description |
-|---|---|
-| [secure-deploy-kit](https://github.com/Arnel-rah/secure-deploy-kit) | Secure IaC kit for deploying REST APIs on AWS, no cloud budget required (LocalStack-first) |
-| [tunepipe](https://github.com/Arnel-rah/tunepipe) | Terminal music player in Go (Bubbletea + yt-dlp + mpv) |
-| [ghostport](https://github.com/Arnel-rah/ghostport) | Port monitoring tool in Go with gRPC |
+- 🔭 Building [`secure-deploy-kit`](https://github.com/Arnel-rah/secure-deploy-kit) — production-ready IaC kit (Terraform + OIDC + WAF), fully tested on LocalStack
+- 🌱 Deepening AWS Solutions Architect (SAA-C03) and Kubernetes
+- 💻 Core stack: **Go** · Java/Spring Boot · Terraform · Docker · AWS · GitHub Actions
 
 <p align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
